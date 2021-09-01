@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sachinborge/TextUtilsReact/static/css/main.90a1ba46.chunk.css",
+    "main.js": "/sachinborge/TextUtilsReact/static/js/main.bdf589fc.chunk.js",
+    "main.js.map": "/sachinborge/TextUtilsReact/static/js/main.bdf589fc.chunk.js.map",
+    "runtime-main.js": "/sachinborge/TextUtilsReact/static/js/runtime-main.2bc28540.js",
+    "runtime-main.js.map": "/sachinborge/TextUtilsReact/static/js/runtime-main.2bc28540.js.map",
+    "static/js/2.265b832c.chunk.js": "/sachinborge/TextUtilsReact/static/js/2.265b832c.chunk.js",
+    "static/js/2.265b832c.chunk.js.map": "/sachinborge/TextUtilsReact/static/js/2.265b832c.chunk.js.map",
+    "static/js/3.5e16fc5b.chunk.js": "/sachinborge/TextUtilsReact/static/js/3.5e16fc5b.chunk.js",
+    "static/js/3.5e16fc5b.chunk.js.map": "/sachinborge/TextUtilsReact/static/js/3.5e16fc5b.chunk.js.map",
+    "index.html": "/sachinborge/TextUtilsReact/index.html",
+    "static/css/main.90a1ba46.chunk.css.map": "/sachinborge/TextUtilsReact/static/css/main.90a1ba46.chunk.css.map",
+    "static/js/2.265b832c.chunk.js.LICENSE.txt": "/sachinborge/TextUtilsReact/static/js/2.265b832c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bc28540.js",
+    "static/js/2.265b832c.chunk.js",
+    "static/css/main.90a1ba46.chunk.css",
+    "static/js/main.bdf589fc.chunk.js"
+  ]
+}
